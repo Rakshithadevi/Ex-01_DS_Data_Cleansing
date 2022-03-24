@@ -34,4 +34,7 @@ df.info()
 ```
 
 # OUPUT
+[output1]
+![image](https://user-images.githubusercontent.com/94165326/159853794-8f288f57-3104-48ec-ab06-1fced896aad5.png)
+
 

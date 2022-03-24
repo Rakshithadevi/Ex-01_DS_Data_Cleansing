@@ -18,9 +18,9 @@ Remove the null values from the data
 ### STEP 4
 Save the Clean data to the file
 
-```
-# CODE
 
+# CODE
+```
 import pandas as pd
 df=pd.read_csv("Data_set.csv")
 df.head(10)

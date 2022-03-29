@@ -42,4 +42,10 @@ df
 ```
 
 # OUPUT
+output1:![image](https://user-images.githubusercontent.com/94165326/160655768-5f681378-36a5-40d5-8237-051b5d353a4c.png)
+output2:![image](https://user-images.githubusercontent.com/94165326/160655867-fc8dd2f1-14bd-427a-8b63-f7ff233e560c.png)
+output3:![image](https://user-images.githubusercontent.com/94165326/160655975-e4f0293e-7ac7-488c-9da3-7e33a8bc1a36.png)
+output4:![image](https://user-images.githubusercontent.com/94165326/160656064-56cc1ba8-591a-4bd8-b0e0-2bc633d9fec4.png)
+output5:![image](https://user-images.githubusercontent.com/94165326/160656199-c5dfb515-d20f-425e-94a5-7fea6ccede52.png)
+
 
